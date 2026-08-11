@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 500px;
+    color: white;
+    height: 600px;
+    background: black;
+    border-radius: 10px;
+    font-size: 2em;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    background: blue;
+    color: white;
+    cursor: pointer;
+}

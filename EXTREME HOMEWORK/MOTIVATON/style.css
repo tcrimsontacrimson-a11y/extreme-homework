@@ -1,0 +1,41 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url(wallhaven-qzj2vd.jpg) no-repeat center center/cover;
+
+}
+.container{
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 100px rgba(0.9, 0.3, 0.2, 0.5);
+    border: 3px solid rgba(255, 255, 255, 0.18);
+    /* backdrop-filter: blur(10px); */
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+h1{
+    font-size: 2.6rem;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 9px;
+    background: gray;
+    color: white;
+    border: 2px solid white;
+}

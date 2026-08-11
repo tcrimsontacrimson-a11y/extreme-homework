@@ -1,0 +1,35 @@
+center{
+    width: 400px;height: 400px;border-radius: 20px;background: turquoise;color: white;font-size: 2rem;
+}
+
+form{
+    width:  400px;
+    height: 400px;
+    border-radius: 20px;
+    background: turquoise;
+    color: white;
+    font-size: 2rem;
+    margin-left: 500px;
+}
+
+
+input{
+    width: 350px;
+    height: 40px;
+    font-family: cursive;
+    color: blue;
+    font-size: 1rem;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    font-size: 1rem;
+    color: white;
+    background: blue;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}

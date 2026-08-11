@@ -1,0 +1,11 @@
+p{
+    font-size: 4em;
+    text-align: center;
+}
+
+.mood{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+}

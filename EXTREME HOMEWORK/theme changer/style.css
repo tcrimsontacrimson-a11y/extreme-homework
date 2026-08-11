@@ -1,0 +1,22 @@
+button{
+    width:270px;
+    height: 60px;
+    background: grey;
+    color: white;
+    border-radius: 9px;
+    border: none;
+    font-size: 2rem;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h1{
+    
+    font-size: 5rem;
+}

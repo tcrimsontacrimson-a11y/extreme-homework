@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
+    border: 3px solid rgba(255, 255, 255, 0.18);
+    /* backdrop-filter: blur(10px); */
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url(wallhaven-qzj2vd.jpg) no-repeat center center/cover;
+
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 0 20px;
+}
+
+ul{
+    list-style: none;
+    font-size: 2rem;
+}
+
+input{
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    color: blue;
+    text-align: left;
+    border: none;
+    font-size: 1.2rem;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    font-size: 1rem;
+}
+
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.count{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.delete-btn{
+    width: 50px;
+    height: 50px;
+    background: none;
+    border: none;
+}
